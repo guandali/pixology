@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/DigitalizeMe)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/DigitalizeMe?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/DigitalizeMe?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
   [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
 
   <br />
   <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center">DigitalizeMe - Digital Agency Website</h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  DigitalizeMe is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/DigitalizeMe/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![DigitalizeMe Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pixology** locally, run this command on your git bash:
+To run **DigitalizeMe** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/codewithsadee/DigitalizeMe.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/codewithsadee/DigitalizeMe.git
 ```
 
 ### Contact
